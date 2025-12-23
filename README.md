@@ -3,6 +3,8 @@ Google Keep like notes application with Firebase authentication and storage.
 
 [Live demo](https://quicknote-91c7d.firebaseapp.com)
 
+[Read blog post](https://frycz.github.io/projects/quick-note)
+
 ### Stack
 - React 15
 - Redux
